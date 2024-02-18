@@ -30,7 +30,7 @@ we use several methods that are often used in wind energy forecasting as compari
 * ARIMA
 * LetNet-5
 * ResNet8
-* A2-Nets
+* A2-Nets [[4]](https://proceedings.neurips.cc/paper_files/paper/2018/file/e165421110ba03099a1c0393373c5b43-Paper.pdf)
 * RNN
 * GRU
 * LSTM
