@@ -36,8 +36,6 @@ we use several methods that are often used in wind energy forecasting as compari
 * LSTM
 * Transformer
 
-## Prediction horizons
-
 
 # Results
 # result of prediction
