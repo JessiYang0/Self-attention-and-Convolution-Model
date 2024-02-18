@@ -40,7 +40,9 @@ we use several methods that are often used in wind energy forecasting as compari
 # Results
 # result of prediction
 <img src="pic/6-hour ahead.png">
-The result of the forecast performance shows that the prediction values are close to the true values, indicating that the proposed model has successfully captured the information on the short-term information.
+*The experimental process starts with the application of the features of the previous 6 hours to predict the power generation of the next 6 hours sequentially.
+
+*The result of the forecast performance shows that the prediction values are close to the true values, indicating that the proposed model has successfully captured the information on the short-term information.
 
 # compare to others 
 <img src="pic/compare_plot4.png">
